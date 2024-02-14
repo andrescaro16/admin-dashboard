@@ -1,4 +1,4 @@
-# famous-queens-leave
+# admin-dashboard
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
@@ -39,10 +39,10 @@ Refine's hooks and components simplifies the development process and eliminates 
 
 To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
 
-- **NestJS Query Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
+-   **NestJS Query Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
+-   **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
+-   **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
+-   **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
 
 ## License
 
